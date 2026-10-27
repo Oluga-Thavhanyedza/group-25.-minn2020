@@ -1,0 +1,6 @@
+EquipID,Type,Manufacturer,Temperature,Vibration,OperatingHours,Downtime,FuelConsumption,BrakeStatus,TyreStatus,EngineStatus,MaintenanceDue,MaintenanceStatus,TruckStatus
+EQ001,Haul Truck,Demo Manufacturer,72,3.2,420,15,35,Good,Good,Good,No,Operational,Available
+EQ002,Excavator,Demo Manufacturer,92,6.4,280,45,28,Good,Good,Good,Yes,Due,Available
+EQ003,Haul Truck,Demo Manufacturer,106,9.2,340,90,40,Warning,Warning,Warning,Yes,Critical,Unavailable
+EQ004,Drill Rig,Demo Manufacturer,78,4.1,500,12,22,Good,Good,Good,No,Operational,Available
+EQ005,Crusher,Demo Manufacturer,85,5.7,120,230,0,Good,Good,Warning,Yes,Maintenance,Unavailable

@@ -1,0 +1,6 @@
+WorkerID,Name,Department,JobRole,Shift,PPE,Training,Fatigue,SafetyObservation,PreviousIncidents,RiskLevel
+W001,Demo Worker A,Hauling,Driver,Day,Yes,Yes,2,Clear,0,Low
+W002,Demo Worker B,Maintenance,Technician,Night,No,Yes,4,PPE check required,1,High
+W003,Demo Worker C,Processing,Operator,Day,Yes,Yes,1,Routine inspection,0,Low
+W004,Demo Worker D,Drilling,Driller,Night,Yes,No,5,Training pending,1,High
+W005,Demo Worker E,Hauling,Supervisor,Day,Yes,Yes,3,Routine inspection,0,Medium

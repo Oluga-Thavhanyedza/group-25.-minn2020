@@ -1,0 +1,6 @@
+IncidentID,Date,Time,Shift,Location,Department,Type,Severity,InjuryStatus,LostTimeInjury,Cause,CorrectiveAction,Status
+INC001,2026-10-20,08:15,Day,Ramp A,Hauling,Near Miss,Medium,None,No,Visibility,Review controls,Open
+INC002,2026-10-21,22:30,Night,Workshop,Maintenance,Equipment Failure,High,None,No,Wear,Inspect equipment,Open
+INC003,2026-10-22,10:45,Day,Plant,Processing,Slip/Trip,Low,Minor,No,Wet floor,Improve housekeeping,Closed
+INC004,2026-10-23,19:00,Night,Pit B,Drilling,Vehicle Collision,Critical,Major,Yes,Traffic conflict,Review traffic plan,Open
+INC005,2026-10-24,14:00,Day,Ramp B,Hauling,Near Miss,Low,None,No,Obstruction,Clear ramp,Closed
